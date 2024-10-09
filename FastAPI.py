@@ -5,20 +5,23 @@ from pydantic import BaseModel
 from detect_face import detect_face
 app = FastAPI()
 
-@app.get("/get_embeddings")
+#home route
+@app.get("/")
 async def get_embeddings():
-    embeddings = extract_facial_embeddings(r'G:\Projects\Facial_Recognition\Facial_Recognition\data\test\Zaheer_Khan_Test.jpg')
-    return {"Facial Embeddings: " : embeddings}
+    message = "Welcome to Facial Recognition"
+    return {message}
 
 
+#post route to get facial embeddings of an image
 class facial_metadata(BaseModel):
     url: str
-
 @app.post("/get_facial_embeddings")
 async def get_embeddings(fc: facial_metadata):
     embeddings = extract_facial_embeddings(fr"{fc.url}")
     return {"Facial Embeddings: " : embeddings}
 
+
+#post route to detect face from a given pool of faces
 class face_data(BaseModel):
     facial_train_data: str
     facial_test_file: str

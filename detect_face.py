@@ -42,6 +42,7 @@ def detect_face(train_set_address, test_image_address):
         return f"Recognized: {name}"
 
 
+
 detect_face(train_data_dir, r"G:\Projects\Facial_Recognition\Facial_Recognition\data\test\Rohit_Sharma_Test.jpg")
 detect_face(train_data_dir, r"G:/Projects/Facial_Recognition/Facial_Recognition/data/test/Sachin_Tendulkar_Test.jpg")
 detect_face(train_data_dir, r"G:\Projects\Facial_Recognition\Facial_Recognition\data\test\Zaheer_Khan_Test.jpg")

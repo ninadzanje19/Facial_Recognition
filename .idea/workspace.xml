@@ -5,60 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75984da9-8811-4c59-b281-359c3dd6f4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Facial_Recognition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastAPI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Capture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sandbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test/Rohit_Sharma_Test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test/Sachin_Tendulkar_Test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test/Zaheer_Khan_Test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train/Rohit_Sharma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train/Sachin_Tendulkar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/train/Virat_Kohli.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/user.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detect_face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/required_softwares.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sandbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/Sachin_Tendulkar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/MSDhoni.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ninadzanje19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ninadzanje19/Facial_Recognition&quot;,
+    &quot;accountId&quot;: &quot;b9dc8325-8767-49d2-82e9-40e6b4b08ad8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -154,7 +119,8 @@
       <workItem from="1728394305266" duration="737000" />
       <workItem from="1728395058966" duration="578000" />
       <workItem from="1728395652487" duration="2305000" />
-      <workItem from="1728410348702" duration="5061000" />
+      <workItem from="1728410348702" duration="7283000" />
+      <workItem from="1728454301791" duration="2910000" />
     </task>
     <servers />
   </component>
@@ -163,10 +129,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Facial_Recognition$Sandbox.coverage" NAME="Sandbox Coverage Results" MODIFIED="1728390656616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Facial_Recognition$FastAPI.coverage" NAME="FastAPI Coverage Results" MODIFIED="1728396863036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Facial_Recognition$detect_face.coverage" NAME="detect_face Coverage Results" MODIFIED="1728415134908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facial_Recognition$FastAPI.coverage" NAME="FastAPI Coverage Results" MODIFIED="1728454671472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facial_Recognition$detect_face.coverage" NAME="detect_face Coverage Results" MODIFIED="1728455193282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Facial_Recognition$model.coverage" NAME="model Coverage Results" MODIFIED="1728410463498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Facial_Recognition$Image_Capture.coverage" NAME="Image_Capture Coverage Results" MODIFIED="1728413310994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Facial_Recognition$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1728414410435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facial_Recognition$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1728455444900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
